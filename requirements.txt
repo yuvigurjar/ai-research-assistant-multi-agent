@@ -1,0 +1,48 @@
+# ==============================
+# Core LangChain
+# ==============================
+langchain
+langchain-core
+langchain-community
+langchain-mistralai
+
+# ==============================
+# Agent / Workflow Orchestration
+# ==============================
+langgraph
+
+# ==============================
+# Tavily Web Search
+# ==============================
+langchain-tavily
+tavily-python
+
+# ==============================
+# Web Scraping - BeautifulSoup
+# ==============================
+beautifulsoup4
+requests
+lxml
+rich
+
+# ==============================
+# Environment Variables
+# ==============================
+python-dotenv
+
+# ==============================
+# Data Validation / Schemas
+# ==============================
+pydantic
+
+# ==============================
+# HTTP / Async Support
+# ==============================
+httpx
+aiohttp
+
+# ==============================
+# Utilities
+# ==============================
+typing-extensions
+streamlit
